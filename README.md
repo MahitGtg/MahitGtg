@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @MahitGtg
-- 👀 I’m interested in table tennis, sckeching, gaming and more
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software engineering projects
-- 📫 How to reach me mahit.gupta64@gmail.com
+👋 Hi, I'm Mahit Gupta!
 
-<!---
-MahitGtg/MahitGtg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm passionate about technology, with a focus on data science, AI, and cybersecurity. As a committee member of the Data Science Club at the University of Western Australia, I enjoy collaborating on projects that push the boundaries of innovation.
+
+🔍 My experience includes streamlining processes and enhancing security protocols during my internships. I'm always eager to explore new challenges in web and game development and continuously improve my skills.
+
+🌟 Outside of tech, I enjoy cooking, playing table tennis, drawing, and travelling.
+
+📫 Let's connect and create something awesome together!
